@@ -1,9 +1,9 @@
 /* WAP in java to print inverted half pyramid with numbers
 
-    12345
-    1234
-    123
-    12
+    54321
+    4321
+    321
+    21
     1
 */
 
